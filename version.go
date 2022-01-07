@@ -3,5 +3,5 @@ package version
 import "fmt"
 
 func Version() {
-	fmt.Println("v0.0.1")
+	fmt.Println("v2.0.0")
 }
